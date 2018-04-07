@@ -1,6 +1,6 @@
 # Krivine-Machine
 
-Following is the implementation of an abstract machine in OCaml namely **krivine machine** which implements **call-by-name** semantics. There exists another abstract machine namely **secd machine** which implements **call-by-value** semantics, whose code can be found [here]().
+Following is the implementation of an abstract machine in OCaml namely **krivine machine** which implements **call-by-name** semantics. There exists another abstract machine namely **secd machine** which implements **call-by-value** semantics, whose code can be found [here](https://github.com/techcentaur/Krivine-Machine/blob/master/SECD.ml).
 
 
 ## What are abstract machines?
@@ -107,7 +107,7 @@ let rec krivinemachine cl (s:stackCLOS) = match cl with
 
 ```
 
-The OCaml code of the krivine machine which various features can be found [here]().
+The OCaml code of the krivine machine which various features can be found [here](https://github.com/techcentaur/Krivine-Machine/blob/master/krivine.ml).
 
 ## Contributing
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
