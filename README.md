@@ -113,7 +113,7 @@ The OCaml code of the krivine machine which various features can be found [here]
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## Attention
-If this code is one of your assignments, I recommend you to try it out first by yourself and then come and have a look, if needed. Otherwise, feel free to use it if you want to expand the language or for any other purpose.
+If this code is one of your assignments, I strongly recommend you to try it out first by yourself. Otherwise, feel free to use it if you want to expand the language or for any other purpose.
  
 
 ## Documents for further information
